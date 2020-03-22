@@ -4,7 +4,8 @@ Upload with imgur API add use this anywhere with session
 #Step-1: Change client ID
     Create account from imgur api and collect client ID from imgur web site.
     Go to file custom-cupload.php and change below like as:
-    // Account info and callback
+   
+   // Account info and callback
             new Imgur({
                 clientid: 'YOUR CLIENT ID', //You can change this ClientID
                 callback: feedback
