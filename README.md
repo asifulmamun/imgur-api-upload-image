@@ -1,5 +1,5 @@
-# imgur-api-upload
-    Upload with imgur API add use this anywhere with session
+# Imgur API Upload Image
+    Image Upload with imgur API add use this anywhere with session
 
 # Step-1: Change client ID
     Create account from imgur api and collect client ID from imgur web site.
@@ -20,5 +20,6 @@
 # Processing
     First user can upload image from custom-upload.php then confirm with submit button then this image link create seesion with php and store this custom-processing-upload.php and auto redirect to custom-finished-upload.php for complete session creating. Then use from this page and do any thing from finished page.
 
+# END
 Thank you,
 Al Mamun (asifulmamun)
